@@ -4,7 +4,7 @@ Function that calculates the min operations to copy and paste letters
 """
 
 
-def minOperations(n):
+def minOperations(n: int) -> int:
 """calculates the fewest number of operations
     needed to result in exactly n H characters
     in the file"""
